@@ -11,3 +11,11 @@ Brute force algorithm emphasis on solving problems in the most straight forward 
   ### - Divide and conquer
 
 The basic idea of this method is to make programs based on dividing the size of problems. In each loop cut the problem in parts with constant factor and then process further in the same fashion. This is a fast algorithm.
+
+  ### - Dynamic programming
+
+If you are searching of one efficient fast algorithm then dynamic programming is here. In this algorithm all focus is made on speed of execution even it costs memory space. Simply saying in this method space for time is sacrificed. The execution speed drastically reduces in this algorithm. This method is particularly useful to solve problems that those have overlapping sub problems.
+
+  ### - Greedy algorithm
+
+Greedy algorithm is a step based algorithm. In a greedy algorithm we analyze the problem in each step. Then use the best locally possible optimum solution to this particular step .Then the process repeats to all steps. It will lead to a globally optimal solution.

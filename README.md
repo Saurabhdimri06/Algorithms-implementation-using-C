@@ -22,6 +22,6 @@ Greedy algorithm is a step based algorithm. In a greedy algorithm we analyze the
 
 # Algorithms Covererd:
 
- - [Bubble and Selection Sort](https://github.com/Saurabhdimri06/Algorithms-implementation-using-C/tree/master    /Bubble%20and%20selection%20sort) Bubble and Selection both are sorting techniques. As we know in our daily lives how much  important it is to have an efficent sorting technique to handel large amount of data so it becomes necessary to have a efficent  sorting technique at hand.
+ - [Bubble and Selection Sort](https://github.com/Saurabhdimri06/Algorithms-implementation-using-C/  Bubble%20and%20selection%20sort) Bubble and Selection both are sorting techniques. As we know in our daily lives how much  important it is to have an efficent sorting technique to handel large amount of data so it becomes necessary to have a efficent  sorting technique at hand.
 
 Time Complexity of Bubble Sort - O(n) and that of Selection Sort is -	O(n2)

@@ -28,3 +28,5 @@ Time Complexity of Bubble Sort - O(n) and that of Selection Sort is -	O(n2)
 
  - Matrix Multiplication
  Strassen in 1969 which gives an overview that how we can find the multiplication of two 2*2 dimension matrix by the brute-force algorithm. But by using divide and conquer technique the overall complexity for multiplication two matrices is reduced. This happens by decreasing the total number if multiplication performed at the expenses of a slight increase in the number of addition.
+
+  The general algorithm's time complexity is O(n^3), while the Strassen's algorithm is O(n^2.80).
